@@ -1,9 +1,13 @@
 # ChatGPT Web
 
-> 声明：此项目只发布于 Github，基于 MIT 协议，免费且作为开源学习使用。并且不会有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
+> 声明：此项目基于ChatGPT Web，增加了卡密，账号登录，使用的MySQL数据库，安装视频可以在QQ群1667910下载，
 
-![cover](./docs/c1.png)
-![cover2](./docs/c2.png)
+
+![1](https://user-images.githubusercontent.com/128042750/235067727-1db59099-25b8-463f-b5f0-e1de789002dc.png)
+![2](https://user-images.githubusercontent.com/128042750/235067738-ca9520ae-803b-4eb6-b423-c6b6d5091a93.png)
+![3](https://user-images.githubusercontent.com/128042750/235067743-e9537083-30cf-4245-8ce4-b1ba76d3a30a.png)
+![4](https://user-images.githubusercontent.com/128042750/235067751-9b3dde32-ca38-4aeb-97f8-7bdb6ab4e39a.png)
+![5](https://user-images.githubusercontent.com/128042750/235067758-780a8497-bd25-45cb-be91-c03365ed71ac.png)
 
 - [ChatGPT Web](#chatgpt-web)
 	- [介绍](#介绍)
