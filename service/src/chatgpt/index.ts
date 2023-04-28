@@ -40,7 +40,7 @@ async function setApiKey(key: string) {
   apiKey = key
   await initializeApi(apiKey)
 }
-async function initializeApi(apiKey) {
+async function initializeApi(apiKey?) {
   if (isNotEmptyString(process.env.OPENAI_API_KEY)) {
     const OPENAI_API_BASE_URL = process.env.OPENAI_API_BASE_URL
 
@@ -217,6 +217,7 @@ function setupProxy(options: SetProxyOptions) {
 function currentModel(): ApiModel {
   return apiModel
 }
+initializeApi()
 
 export type { ChatContext, ChatMessage }
 
