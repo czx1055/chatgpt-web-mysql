@@ -1,4 +1,4 @@
-# ChatGPT Web
+# chatgpt-web-mysql
 
 > 声明：此项目基于ChatGPT Web，增加了卡密，账号登录，使用的MySQL数据库，安装视频可以在QQ群1667910下载，
 
