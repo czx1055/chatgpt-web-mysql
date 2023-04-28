@@ -41,6 +41,7 @@ async function setApiKey(key: string) {
   await initializeApi(apiKey)
 }
 async function initializeApi(apiKey?) {
+	apiKey = apiKey || process.env.OPENAI_API_KEY
   if (isNotEmptyString(process.env.OPENAI_API_KEY)) {
     const OPENAI_API_BASE_URL = process.env.OPENAI_API_BASE_URL
 
