@@ -2,6 +2,7 @@
 
 > 声明：此项目基于ChatGPT Web，增加了卡密，账号登录，使用的MySQL数据库，安装视频可以在QQ群1667910下载，
 
+![image](https://user-images.githubusercontent.com/128042750/235300635-c9d14576-d5c0-4b9c-b028-7d4bbdee7487.png)
 
 ![1](https://user-images.githubusercontent.com/128042750/235067727-1db59099-25b8-463f-b5f0-e1de789002dc.png)
 ![2](https://user-images.githubusercontent.com/128042750/235067738-ca9520ae-803b-4eb6-b423-c6b6d5091a93.png)
