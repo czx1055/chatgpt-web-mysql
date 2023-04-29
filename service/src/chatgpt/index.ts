@@ -75,7 +75,7 @@ async function initializeApi(apiKey?) {
   else {
     const options: ChatGPTUnofficialProxyAPIOptions = {
       accessToken: process.env.OPENAI_ACCESS_TOKEN,
-      apiReverseProxyUrl: isNotEmptyString(process.env.API_REVERSE_PROXY) ? process.env.API_REVERSE_PROXY : 'https://bypass.churchless.tech/api/conversation',
+      apiReverseProxyUrl: isNotEmptyString(process.env.API_REVERSE_PROXY) ? process.env.API_REVERSE_PROXY : 'https://api.openai.com/v1/chat/completions',
       model,
       debug: !disableDebug,
     }
